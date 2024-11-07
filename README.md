@@ -39,6 +39,5 @@ Provided strategic recommendations to AtliQ Grands for boosting performance and 
 **Project Impact: **
 By leveraging data-driven insights, this project aims to guide AtliQ Grands' management in making more effective decisions to regain their competitive advantage. The dashboard created provides real-time updates on KPIs and revenue trends, supporting the company’s efforts in the revenue segment.
 
-**Checkout my Live Dashboard: ** [Live Dashboard] {https://app.powerbi.com/view?r=eyJrIjoiNmMxYTRiZDQtY2FlOS00Y2FjLTkwNjctNmY4NjljNjA1YzZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9}
-
+**Checkout my Live Dashboard: ** [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmMxYTRiZDQtY2FlOS00Y2FjLTkwNjctNmY4NjljNjA1YzZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
