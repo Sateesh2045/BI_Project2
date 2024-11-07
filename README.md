@@ -36,6 +36,15 @@ The dashboard provided management with a comprehensive view of business performa
 Identified regions and hotel properties where AtliQ Grands experienced the largest decline in market share.
 Provided strategic recommendations to AtliQ Grands for boosting performance and responding effectively to competitor actions. 
 
+**Key Insights**
+Mumbai Generated Highest (660M) revenue with contribution of 39.13% and Delhi generated Lowest Revenue (290.92) with contribution of 17.24%
+Occupancy%: Delhi is leading in Ist position with 60.44% and Bangalore is in last position with 55 6854 Cancellation Delhi is having more cancellation% of 25.63% compared to other cities
+May 2022 recorded the highest revenue of 582M, followed by June 2022 with 554M and July 2022 with 551M
+Elite rooms dominate with a significant RC of 32.81%
+Luxury category outperforms, contributing of 61.62% of revenue compared to the Business category of 38.38%
+"Make Your Trip" accounts for approximately 19-20% of revenue Approximately 40% of revenue originates from unidentified sources, warranting focused idemification efforts for enhanced marketing strategies.
+Rev PAR is Highest for Mumbai And Lowest for Hyderabad
+
 **Project Impact: **
 By leveraging data-driven insights, this project aims to guide AtliQ Grands' management in making more effective decisions to regain their competitive advantage. The dashboard created provides real-time updates on KPIs and revenue trends, supporting the company’s efforts in the revenue segment.
 
